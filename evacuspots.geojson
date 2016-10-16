@@ -1,0 +1,311 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.045115,
+                    29.945274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "1111 Newton Ave.",
+                "name": "Arthur Monday Center",
+                "neighborhood": "Algiers",
+                "special_needs_location": true,
+                "spot_number": 1,
+                "zip": 70114
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.0706212,
+                    29.9318008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "1600 Constance St.",
+                "name": "Kingsley House",
+                "neighborhood": "Lower Garden District",
+                "special_needs_location": true,
+                "spot_number": 2,
+                "zip": 70130
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.085482,
+                    29.937583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "2101 Philip St.",
+                "name": "Central City Senior Center",
+                "neighborhood": "Central City",
+                "special_needs_location": true,
+                "spot_number": 3,
+                "zip": 70113
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.129454,
+                    29.947694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "1226 S. Carrollton Ave.",
+                "name": "Mater Dolorosa",
+                "neighborhood": "Carrollton",
+                "special_needs_location": true,
+                "spot_number": 4,
+                "zip": 70118
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.10769,
+                    30.005084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "6301 Canal Blvd.",
+                "name": "Smith Library",
+                "neighborhood": "Lakeview",
+                "special_needs_location": false,
+                "spot_number": 5,
+                "zip": 70124
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.120957,
+                    29.955933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "S. Claiborne Ave. and S. Carrollton Ave.",
+                "name": "Palmer Park",
+                "neighborhood": "West Carrollton",
+                "special_needs_location": false,
+                "spot_number": 6,
+                "zip": 70118
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.111831,
+                    29.942525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "5712 S. Claiborne Ave.",
+                "name": "McMain High School",
+                "neighborhood": "Broadmoor",
+                "special_needs_location": false,
+                "spot_number": 7,
+                "zip": 70125
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.087114,
+                    29.918403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "624 Louisiana Ave.",
+                "name": "Lyons Community Center",
+                "neighborhood": "Irish Channel",
+                "special_needs_location": false,
+                "spot_number": 8,
+                "zip": 70115
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.083364,
+                    29.936723
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "2220 Oretha Castle Haley Blvd.",
+                "name": "Dryades YMCA",
+                "neighborhood": "Central City",
+                "special_needs_location": false,
+                "spot_number": 9,
+                "zip": 70113
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.090382,
+                    29.967919
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "3019 Canal St.",
+                "name": "Warren Easton High School",
+                "neighborhood": "Mid City",
+                "special_needs_location": false,
+                "spot_number": 10,
+                "zip": 70119
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.067752,
+                    29.961522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "801 N. Rampart St.",
+                "name": "Municipal Auditorium/Armstrong Park",
+                "neighborhood": "Treme",
+                "special_needs_location": false,
+                "spot_number": 11,
+                "zip": 70116
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.026972,
+                    29.942508
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "2832 General Meyer Ave.",
+                "name": "Harriet Tubman Charter School",
+                "neighborhood": "Algiers",
+                "special_needs_location": false,
+                "spot_number": 12,
+                "zip": 70114
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.031705,
+                    29.964646
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "4300 St. Claude Ave.",
+                "name": "Stallings Community Center",
+                "neighborhood": "Bywater",
+                "special_needs_location": false,
+                "spot_number": 13,
+                "zip": 70117
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.014219,
+                    29.96641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "1616 Caffin Ave.",
+                "name": "Sanchez Center",
+                "neighborhood": "Lower Ninth Ward",
+                "special_needs_location": false,
+                "spot_number": 14,
+                "zip": 70117
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.03986,
+                    30.004442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "4301 Chef Menteur Hwy.",
+                "name": "Walmart",
+                "neighborhood": "Gentilly",
+                "special_needs_location": false,
+                "spot_number": 15,
+                "zip": 70126
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.97257,
+                    30.032667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "5641 Read Blvd.",
+                "name": "East New Orleans Library",
+                "neighborhood": "New Orleans East",
+                "special_needs_location": false,
+                "spot_number": 16,
+                "zip": 70127
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.919493,
+                    30.03997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "14001 Dwyer Blvd.",
+                "name": "Mary Queen of Vietnam",
+                "neighborhood": "New Orleans East",
+                "special_needs_location": false,
+                "spot_number": 17,
+                "zip": 70129
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
